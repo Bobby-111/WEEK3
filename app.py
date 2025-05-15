@@ -164,7 +164,7 @@ st.markdown(
     }
     </style>
     <div class="made-with">
-    Made with ❤️ by Bobby (https://github.com/Bobby-111)
+    Made with ❤️ by <a href= "https://github.com/Bobby-111" target = "blank">Bobby</a>
     </div>
     """,
     unsafe_allow_html=True
